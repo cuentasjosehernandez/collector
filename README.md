@@ -13,7 +13,6 @@ Un organizador de juegos multiplataforma para emuladores, con soporte multi-idio
 - 🔄 Actualizaciones automáticas vía GitHub Releases
 - 🎮 Soporte para múltiples consolas:
   - Gamecube
-  - Nintendo Switch
   - 3DS
   - Nintendo DS
   - Game Boy Advance
