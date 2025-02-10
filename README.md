@@ -1,6 +1,5 @@
 # Collector V4 - Game Launcher Manager
 
-![App Screenshot](screenshots/app_preview.png) <!-- Agrega tu propia captura de pantalla -->
 
 Un organizador de juegos multiplataforma para emuladores, con soporte multi-idioma y actualizaciones automáticas.
 
@@ -21,7 +20,7 @@ Un organizador de juegos multiplataforma para emuladores, con soporte multi-idio
 
 ## Requisitos del Sistema
 
-- Windows 10/11 (probado) o Linux (no probado)
+- Windows 10/11 (probado)
 - Python 3.9+
 - Emuladores instalados (Dolphin, Citra, Cemu, etc.)
 
